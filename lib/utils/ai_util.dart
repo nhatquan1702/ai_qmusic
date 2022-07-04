@@ -3,5 +3,5 @@ import 'package:velocity_x/velocity_x.dart';
 
 mixin AIMusicColor{
   static Color primaryColor1 = Vx.orange400;
-  static Color primaryColor2 = Vx.orange500;
+  static Color primaryColor2 = Vx.purple500;
 }

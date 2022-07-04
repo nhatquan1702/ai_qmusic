@@ -22,13 +22,13 @@ class _HomePageState extends State<HomePage> {
   final sugg = [
     "Phát",
     "Dừng",
-    "Phát nhạc Rock",
-    "Phát 107 FM",
+    "Phát nhạc trẻ",
+    "Phát ngẫu nhiên",
     "Phát kế tiếp",
-    "Phát 104 FM",
+    "Phát nhạc pop",
     "Tạm dừng",
     "Phát trước đó",
-    "Phát nhạc Pop"
+    "Phát nhạc Lofi"
   ];
 
   final AudioPlayer _audioPlayer = AudioPlayer();
@@ -133,7 +133,7 @@ class _HomePageState extends State<HomePage> {
           child: radios != null
               ? [
                   100.heightBox,
-                  "Tất cả Channel".text.xl.white.semiBold.make().px16(),
+                  "Tất cả kênh".text.xl.white.semiBold.make().px16(),
                   20.heightBox,
                   ListView(
                     padding: Vx.m0,
@@ -169,13 +169,13 @@ class _HomePageState extends State<HomePage> {
               .make(),
           [
             AppBar(
-              title: "AI QMusic".text.xl4.bold.white.make().shimmer(
+              title: "QMusic".text.xl4.bold.white.make().shimmer(
                   primaryColor: Vx.purple300, secondaryColor: Colors.white),
               backgroundColor: Colors.transparent,
               elevation: 0.0,
               centerTitle: true,
             ).h(100.0).p16(),
-            "Bắt đầu với - Hey Quang!".text.italic.semiBold.white.make(),
+            "Cùng chill với - Quang nè!".text.italic.semiBold.white.make(),
             10.heightBox,
             VxSwiper.builder(
               itemCount: sugg.length,
