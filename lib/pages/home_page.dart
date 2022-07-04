@@ -1,5 +1,4 @@
 import 'package:ai_music/utils/ai_util.dart';
-import 'package:alan_voice/alan_voice.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -37,7 +36,7 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    setupAlan();
+    //setupAlan();
     fetchRadios();
 
     _audioPlayer.onPlayerStateChanged.listen((event) {
@@ -50,11 +49,11 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
-  setupAlan() {
-    AlanVoice.addButton("<Enter your key here>",
-        buttonAlign: AlanVoice.BUTTON_ALIGN_RIGHT);
-    AlanVoice.callbacks.add((command) => _handleCommand(command.data));
-  }
+  // setupAlan() {
+  //   AlanVoice.addButton("<Enter your key here>",
+  //       buttonAlign: AlanVoice.BUTTON_ALIGN_RIGHT);
+  //   AlanVoice.callbacks.add((command) => _handleCommand(command.data));
+  // }
 
   _handleCommand(Map<String, dynamic> response) {
     switch (response["command"]) {

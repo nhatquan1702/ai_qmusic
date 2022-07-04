@@ -27,7 +27,7 @@ dependencies:
   velocity_x: ^3.5.1
   google_fonts: ^3.0.1
   audioplayers: ^0.20.0
-  alan_voice: ^3.6.0
+#  alan_voice: ^3.0.0
 
 dev_dependencies:
   flutter_test:
