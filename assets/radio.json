@@ -1,0 +1,117 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "Về bên anh",
+      "tagline": "Jack",
+      "color": "0xffa11431",
+      "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946521/AI%20QMusic/y2mate.com_-_V%E1%BB%81_B%C3%AAn_Anh_Jack_x_QuanvroxLo_Fi_Ver_Official_Lyrics_Video_svrbfh.mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656948256/AI%20QMusic/01456e55f12228ff6e0b1b599be5ce79e93c2fe37e_vjzagq.jpg",
+      "lang": "Việt Nam",
+      "category": "Lofi",
+      "disliked": false,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Xin má rước dâu",
+      "tagline": "Diệu Kiên",
+      "color": "0xff221420",
+      "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946519/AI%20QMusic/y2mate.com_-_ANH_%C6%A0I_N%E1%BA%AENG_M%C6%AFA_D%C3%A3i_D%E1%BA%A6U_V%E1%BB%80_NH%C3%80_XIN_M%C3%81_R%C6%AF%E1%BB%9AC_D%C3%82U_XIN_MA_R%C6%AF%C6%A0C_D%C3%82U_DI%C3%8AU_KI%C3%8AN_OFFICIAL_VIDEO_vtdxek.mp3",
+      "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656948121/AI%20QMusic/PicsArt_01-02-09.10.44_sxkzqk.jpg",
+      "lang": "Việt Nam",
+      "disliked": false,
+      "category": "Nhạc trẻ",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Hoa điêu thuyền",
+      "tagline": "Yamix Hầu Ca",
+      "color": "0xff04080b",
+      "desc": "Playing music regularly will physically alter your brain structure.",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946519/AI%20QMusic/y2mate.com_-_Hoa_%C4%90i%C3%AAu_Thuy%E1%BB%81n_Yamix_H%E1%BA%A7u_Ca_Ft_G%E1%BA%A5u_x_QuanvroxLo_Fi_Ver_Official_Lyrics_Video_pk6zrj.mp3",
+      "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656948115/AI%20QMusic/IMG_20200128_092537_aysdqg.jpg",
+      "lang": "Việt Nam",
+      "disliked": false,
+      "category": "Lofi",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Thước đo",
+      "tagline": "Anh Rồng",
+      "color": "0xff066c53",
+      "desc": "",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946519/AI%20QMusic/y2mate.com_-_Th%C6%B0%E1%BB%9Bc_%C4%90o_Anh_R%E1%BB%93ng_Official_music_video_e2hsne.mp3",
+      "icon": "https://radiosindia.com/images/foxfm.jpg",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656947957/AI%20QMusic/01fdd3f9a49bc8b528fbf66b13393bf316ba8d97a9_laxhlx.jpg",
+      "lang": "Việt Nam",
+      "category": "Nhạc trẻ",
+      "disliked": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Rung động",
+      "tagline": "Dương Edward x QuanVrox",
+      "color": "0xff0d487d",
+      "desc": "",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656942618/AI%20QMusic/y2mate.com_-_Rung_%C4%90%E1%BB%99ng_D%C6%B0%C6%A1ng_Edward_x_QuanvroxLo_Fi_Ver_Official_Lyrics_Video_fhesfq.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656947956/AI%20QMusic/010bf888a3aaaeb32f79bef729a51e3e00b8e832c2_nsvmmh.jpg",
+      "lang": "Việt Nam",
+      "category": "Lofi",
+      "disliked": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Sau này của chúng ta",
+      "tagline": "Lê Hiếu",
+      "color": "0xff27383e",
+      "desc": "",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946518/AI%20QMusic/y2mate.com_-_Sau_N%C3%A0y_C%E1%BB%A7a_Ch%C3%BAng_Ta_L%C3%AA_Hi%E1%BA%BFuOfficial_Lyric_Video_y8c2os.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656947957/AI%20QMusic/016dddf32badbd8622d6ed7c8cdc6e5516a77214f4_mvuifd.jpg",
+      "lang": "Việt Nam",
+      "category": "Pop",
+      "disliked": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Ví dầu đưa dâu",
+      "tagline": "Diệu Kiên",
+      "color": "0xffa06a37",
+      "desc": "The brain responds to music the same way it responds to something that you eat.",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946518/AI%20QMusic/y2mate.com_-_V%C3%8D_D%E1%BA%A6U_%C4%90%C6%AFA_D%C3%82U_DUY_KHI%C3%8AM_X_DI%E1%BB%86U_KI%C3%8AN_OFFICIAL_LYRICS_VIDEO_stvpwo.mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656947957/AI%20QMusic/010527a4af2f3b31f20c5d11f855846b350f4a8772_yldphm.jpg",
+      "lang": "Việt Nam",
+      "category": "Nhạc trẻ",
+      "disliked": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Tình thu sao hạ buồn",
+      "tagline": "ĐạtKaa x QTBeatZ",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://res.cloudinary.com/dmfrvd4tl/video/upload/v1656946780/AI%20QMusic/y2mate.com_-_T%C3%8CNH_THU_SAO_H%E1%BA%A0_BU%E1%BB%92N_DATKAA_x_PROD_QT_BEATZ_OFFICIAL_MUSIC_VIDEO_zwbahl.mp3",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+      "image": "https://res.cloudinary.com/dmfrvd4tl/image/upload/v1656947957/AI%20QMusic/010189447d1cde0d9695f16cb5206643b26e595293_pz0s1t.jpg",
+      "lang": "Việt Nam",
+      "category": "Nhạc trẻ",
+      "disliked": false,
+      "order": 8
+    }
+  ]
+
+}
